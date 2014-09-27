@@ -1,0 +1,9 @@
+# Pyhton
+.py[abc]
+
+# Database
+.db
+.sqlite3
+
+# LOG Files
+.log
