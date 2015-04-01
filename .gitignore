@@ -1,3 +1,7 @@
+
+# Pyhton
+.py[abc]
+
 # Database
 .db
 .sqlite3
@@ -59,3 +63,4 @@ docs/_build/
 
 # PyBuilder
 target/
+.log
