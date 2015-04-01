@@ -1,14 +1,20 @@
+<<<<<<< HEAD
+=======
 
 # Pyhton
 .py[abc]
 
+>>>>>>> develop
 # Database
 .db
 .sqlite3
 
+<<<<<<< HEAD
+=======
 # LOG Files
 .log
 
+>>>>>>> develop
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -62,5 +68,9 @@ coverage.xml
 docs/_build/
 
 # PyBuilder
+<<<<<<< HEAD
+target/
+=======
 target/
 .log
+>>>>>>> develop
